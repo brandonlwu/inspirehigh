@@ -8,8 +8,9 @@
 
 @font-face {
     font-family: "Bebas Neue";
-    src: url('BebasNeue Regular.ttf');
+    src: url('BebasNeue.otf');
 }
+
 
 body, html {
     height: 100%;
@@ -116,7 +117,7 @@ h1 {
   font-family: "Bebas Neue";
   display: inline-block;
   letter-spacing: 3px;
-  font-weight: bold;
+	font-weight: bold;
 }
 
 .overlay a:hover, .overlay a:focus {
@@ -189,6 +190,10 @@ h1 {
 	letter-spacing: 2px;
 }
 
+#tag3 {
+	font-size: 30px;
+}
+
 #num3 {	
 	position: absolute;
 	top: 1450px;
@@ -214,7 +219,7 @@ h1 {
 	font-size:30px; 
 	text-align: center; 
 	color: white; 
-	font-family: Rockwell;
+	font-family: "Rockwell";
 }
 
 #num5 {	
@@ -398,11 +403,14 @@ h1 {
 	#num3 {
 		height: 180px;
 	}
+	#tag3 {
+		font-caption: 28px;
+	}
 	#num4 {
 		height: 150px;
 	}
 	#tag2 {
-		font-size: 80px;
+		font-size: 64px;
 		letter-spacing: 0px;
 	}
 	#num2 {
@@ -414,7 +422,7 @@ h1 {
 	}
 	
 	#tag6 {
-		font-size: 26px;
+		font-size: 24px;
 	}
 	
 	#tag7 {
@@ -433,6 +441,39 @@ h1 {
 	}
 	
 	#tag1 {
-		font-size: 72px;
+		font-size: 60px;
 	}
+	
+	#tag4 {
+		font-size: 26px;
+	}
+	
+	#inspireothers {
+		font-size: 50px;
+	}
+	#takeaction {
+		font-size: 80px;
+	}
+	
+	#seizetoday {
+		font-size: 120px;
+	}
+}
+
+#inspireothers {
+	font-size: 60px; text-align: center; color: #002b80;
+	width: 100%;
+	margin-left: 0px;
+}
+
+#takeaction {
+	font-size:120px; text-align: center; color: #002b80;
+	width: 100%;
+	margin-left: 0px;
+}
+
+#seizetoday {
+	font-size:170px; text-align: center; color: #002b80;
+	width: 100%;
+	margin-left: 0px;
 }
