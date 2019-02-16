@@ -184,7 +184,6 @@ h1 {
 	text-align: center; 
 	color: #002b80;
 	font-family: "Bebas Neue";
-	margin-left: 40px;
 	margin-top: 30px;
 	margin-bottom: 30px;
 	letter-spacing: 2px;
@@ -246,7 +245,7 @@ h1 {
 #num6 {
 	background-color: #5c5c8a;
 	width: 80%;
-	height: 130px;
+	height: 120px;
 	z-index: 2;
 	opacity: .9;	
 	position: absolute;
@@ -401,6 +400,10 @@ h1 {
 		width: 75%;
 	}
 	
+	#num8 {
+		width:75%
+	}
+	
 	#tag2 {
 		font-size: 105px;
 		letter-spacing: 0px;
@@ -449,11 +452,11 @@ h1 {
 	}
 	
 	#num6 {
-		height: 200px;
+		height: 210px;
 	}
 	
 	#tag6 {
-		font-size: 22px;
+		font-size: 21px;
 	}
 	
 	#tag7 {
@@ -469,7 +472,7 @@ h1 {
 	}
 	
 	#tag9 {
-	 	font-size: 56px;
+	 	font-size: 72px;
 	}
 	#num9 {
 		height: 240px;
