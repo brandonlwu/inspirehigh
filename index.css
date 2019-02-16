@@ -375,11 +375,11 @@ h1 {
 		height: 110px;
 	}
 	#num5 {
-		height: 200px;
+		height: 160px;
 	}
 	
 	#num7 {
-		height: 200px;
+		height: 180px;
 	}
 	
 	#num8 {
@@ -438,7 +438,7 @@ h1 {
 	}
 	
 	#num3 {
-		height: 180px;
+		height: 150px;
 	}
 	#tag3 {
 		font-caption: 28px;
@@ -448,19 +448,22 @@ h1 {
 	}
 	
 	#tag5 {
+		
+		
 		font-size: 44px;
 	}
+	
 	
 	#num6 {
 		height: 210px;
 	}
 	
 	#tag6 {
-		font-size: 21px;
+		font-size: 18px;
 	}
 	
 	#tag7 {
-		font-size: 48px;
+		font-size: 44px;
 	}
 	
 	#num8 {
@@ -472,7 +475,7 @@ h1 {
 	}
 	
 	#tag9 {
-	 	font-size: 72px;
+	 	font-size: 44px;
 	}
 	#num9 {
 		height: 240px;
@@ -487,13 +490,13 @@ h1 {
 	}
 	
 	#inspireothers {
-		font-size: 36px;
+		font-size: 30px;
 	}
 	#takeaction {
-		font-size: 56px;
+		font-size: 50px;
 	}
 	
 	#seizetoday {
-		font-size: 72px;
+		font-size: 64px;
 	}
 }
