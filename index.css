@@ -301,6 +301,10 @@ h1 {
 	right: 0px;
 }
 
+#tag8 {
+	font-size:30px;
+}
+
 #num9 {
 	background-color: #002b80;
 	width: 100%;
@@ -312,6 +316,7 @@ h1 {
 	top: 3360px;
 	right: 0px;
 }
+
 
 #tag9 {
 	font-size:90px
@@ -392,6 +397,10 @@ h1 {
 		width: 100%;
 	}
 	
+	#num3 {
+		width: 75%;
+	}
+	
 	#tag2 {
 		font-size: 105px;
 		letter-spacing: 0px;
@@ -417,6 +426,13 @@ h1 {
 	#num1 {
 		height: 200px;
 	}
+	#tag2 {
+		font-size: 48px;
+		letter-spacing: 0px;
+	}
+	#num2 {
+		top: 700px;
+	}
 	
 	#num3 {
 		height: 180px;
@@ -427,12 +443,9 @@ h1 {
 	#num4 {
 		height: 150px;
 	}
-	#tag2 {
-		font-size: 64px;
-		letter-spacing: 0px;
-	}
-	#num2 {
-		top: 700px;
+	
+	#tag5 {
+		font-size: 44px;
 	}
 	
 	#num6 {
@@ -440,19 +453,23 @@ h1 {
 	}
 	
 	#tag6 {
-		font-size: 24px;
+		font-size: 22px;
 	}
 	
 	#tag7 {
-		font-size: 60px;
+		font-size: 48px;
 	}
 	
 	#num8 {
 		height: 180px;
 	}
 	
+	#tag8 {
+		font-size: 24px;
+	}
+	
 	#tag9 {
-	 	font-size: 65px;
+	 	font-size: 56px;
 	}
 	#num9 {
 		height: 240px;
@@ -470,10 +487,10 @@ h1 {
 		font-size: 36px;
 	}
 	#takeaction {
-		font-size: 64px;
+		font-size: 56px;
 	}
 	
 	#seizetoday {
-		font-size: 86px;
+		font-size: 72px;
 	}
 }
